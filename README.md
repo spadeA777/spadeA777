@@ -22,7 +22,7 @@ Full Stack web and mobile development with:
 
 React / Angular / Flutter / Golang / Spring Boot / Node.js / PHP
 
-<img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
+<img src="https://komarev.com/ghpvc/?username=Andreas1012&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Andreas1012" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adandev1125&show_icons=true&locale=en&layout=compact" alt="adandev1125" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adandev1125&show_icons=true&locale=en" alt="adandev1125" />

@@ -1,53 +1,39 @@
 
-### Hi there 👋
+### 👋 Hi there.
 
 
 ## About Me
 
-Dedicated Full Stack Engineer with 6 years of experience in software industry.
+Android Expert with 9+ years of experience in Android App Development.
 
-Build meaningful web and mobile products with the latest technologies.
-
-Professional experience with React technologies like React, React Native, React Hooks, Redux Toolkit and Enzyme.
-
-Skillful in other front-end technologies like latest Angular, Flutter and Tailwind CSS.
-
-Expert in Golang, Spring Boot, Node.js and PHP for back end. Familiar with various cloud services like AWS, S3 and Azure.
-
-Interested in AI/ML for data analysis with Golang and Python.
-
-
-
-Full Stack web and mobile development with:
-
-React / Angular / Flutter / Golang / Spring Boot / Node.js / PHP
+Work on agile development methodologies and follow the best practices for developing android applications.
 
 <img src="https://komarev.com/ghpvc/?username=Andreas1012&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Andreas1012" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adandev1125&show_icons=true&locale=en&layout=compact" alt="adandev1125" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adandev1125&show_icons=true&locale=en" alt="adandev1125" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adandev1125&" alt="adandev1125" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adandev1125&show_icons=true&locale=en&layout=compact" alt="Andreas1012" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas1012&show_icons=true&locale=en" alt="Andreas1012" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreas1012&" alt="Andreas1012" />
 
 ## Technology Stack
 ### Languages
-<img src="https://img.shields.io/badge/C++-3eb414?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C/C++-3eb414?style=for-the-badge"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-d28139?style=for-the-badge"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-9e39d2?style=for-the-badge"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Golang-4dacd7?style=for-the-badge&logo=go&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Javascript-333333?style=for-the-badge&logo=javascript"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-4879c7?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-9e39d2?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-4dacd7?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=TypeScript"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PHP-797cb5?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-d35126?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-ae4471?style=for-the-badge&logo=css3"/>&nbsp;&nbsp;
 
 ### Frameworks, Libraries
+<img src="https://img.shields.io/badge/React Native-247cde?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-247cde?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-7ab23b?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-4e982f?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-247cde?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React Native-247cde?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-52b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CodeIgniter-de4524?style=for-the-badge&logo=codeigniter&logoColor=white"/>&nbsp;&nbsp;
 
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-517aa1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
@@ -56,5 +42,4 @@ React / Angular / Flutter / Golang / Spring Boot / Node.js / PHP
 <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase"/>&nbsp;&nbsp;
 
 ## How to reach me:
-- Email: adanyonai@outlook.com
-- Skype: live:.cid.4d11e434da2653a0
+- Email: raindrop412@outlook.com

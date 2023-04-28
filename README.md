@@ -34,6 +34,7 @@ Always looking to learn new technologies and what's a better way to do it than w
 <img src="https://img.shields.io/badge/React Native-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CodeIgniter-informational?style=for-the-badge&logo=codeigniter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cocos-informational?style=for-the-badge&logo=cocos&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android Studio-informational?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp;&nbsp;

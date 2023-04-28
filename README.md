@@ -38,7 +38,7 @@ Always looking to learn new technologies and what's a better way to do it than w
 <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cocos-informational?style=for-the-badge&logo=cocos&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android Studio-informational?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Eclipse-informational?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Eclipse-informational?style=for-the-badge&logo=eclipse&logoColor=white"/>;
 <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gradle-informational?style=for-the-badge&logo=gradle&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android SDK-informational?style=for-the-badge&logo=sdk&logoColor=white"/>&nbsp;&nbsp;

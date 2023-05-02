@@ -4,11 +4,11 @@
 
 ## About Me
 
-Reliable and passionate Mobile Expert with 9 years of experience in software industry.
+7+ years of full-stack development experience has honed my skills and expertise to deliver innovative solutions that exceed expectations. 
 
-Expertise in designing and development of Android Applications.
+My experience encompasses the entire spectrum of development, from frontend design to advanced backend engineering, allowing me to bring a holistic perspective to every project. 
 
-Experienced with various categories and aspects of crossplatform app development with React Native and Flutter.
+With a passion for creating exceptional user experiences and utilizing cutting-edge technologies, I am committed to delivering the highest quality results for every project I undertake.
 
 Always looking to learn new technologies and what's a better way to do it than working on the new techs on regular basis.
 

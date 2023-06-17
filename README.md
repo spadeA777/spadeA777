@@ -2,7 +2,7 @@
 ### 👋 Hi there.
 
 
-## About Me
+## Mobile App & Game Developer
 
 7+ years of full-stack development experience has honed my skills and expertise to deliver innovative solutions that exceed expectations. 
 

@@ -4,7 +4,7 @@
 
 ## Mobile App & Game Developer
 
-7+ years of full-stack development experience has honed my skills and expertise to deliver innovative solutions that exceed expectations. 
+5+ years of full-stack development experience has honed my skills and expertise to deliver innovative solutions that exceed expectations. 
 
 My experience encompasses the entire spectrum of development, from frontend design to advanced backend engineering, allowing me to bring a holistic perspective to every project. 
 
@@ -20,13 +20,12 @@ Always looking to learn new technologies and what's a better way to do it than w
 
 ## Technology Stack
 ### Languages
-<img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Xml-informational?style=for-the-badge"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;
+
 
 ### Frameworks, Libraries, Tools
 <img src="https://img.shields.io/badge/React Native-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;

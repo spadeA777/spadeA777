@@ -4,13 +4,13 @@
 
 ## Mobile App & Game Developer
 
-5+ years of full-stack development experience has honed my skills and expertise to deliver innovative solutions that exceed expectations. 
+I have 7+ years experience with App and Game Development.
 
-My experience encompasses the entire spectrum of development, from frontend design to advanced backend engineering, allowing me to bring a holistic perspective to every project. 
+Creative, positive attitude, smart worker.
 
-With a passion for creating exceptional user experiences and utilizing cutting-edge technologies, I am committed to delivering the highest quality results for every project I undertake.
+Worked as Freelancer more than 4 years with many game built. Most of them are Slot game.
+You can see them on my portfolio.
 
-Always looking to learn new technologies and what's a better way to do it than working on the new techs on regular basis.
 
 <img src="https://komarev.com/ghpvc/?username=Austin0721&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Austin0721" />
 
@@ -23,6 +23,7 @@ Always looking to learn new technologies and what's a better way to do it than w
 
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Xml-informational?style=for-the-badge"/>&nbsp;&nbsp;
 

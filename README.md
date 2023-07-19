@@ -9,7 +9,10 @@ I have 7+ years experience with App and Game Development.
 Creative, positive attitude, smart worker.
 
 Worked as Freelancer more than 4 years with many game built. Most of them are Slot game.
-You can see them on my portfolio.
+
+You can play them on
+https://austin0721.github.io/HottestChiliGame/
+https://austin0721.github.io/FortuneTreeGame/
 
 
 <img src="https://komarev.com/ghpvc/?username=Austin0721&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Austin0721" />

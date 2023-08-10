@@ -40,13 +40,14 @@ https://austin0721.github.io/FortuneTreeGame/
 <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CodeIgniter-informational?style=for-the-badge&logo=codeigniter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express JS-informational?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TailwndCSS-informational?style=for-the-badge&logo=tailwndcss&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Svn-informational?style=for-the-badge&logo=visualsvn&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cocos Creator-informational?style=for-the-badge&logo=cocoscreatort&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cocos 2dx-informational?style=for-the-badge&logo=cocos2dx&logoColor=white"/>&nbsp;&nbsp;
 
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;

@@ -26,6 +26,8 @@ https://austin0721.github.io/FortuneTreeGame/
 ## Technology Stack
 ### Languages
 
+<img src="https://shields.io/badge/C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://shields.io/badge/Lua-informational?style=for-the-badge&logo=lua&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">&nbsp;&nbsp;

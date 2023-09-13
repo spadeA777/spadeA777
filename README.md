@@ -18,7 +18,7 @@ https://austin0721.github.io/FortuneTreeGame/
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas1012&show_icons=true&locale=en&layout=compact" alt="Andreas1012" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas1012&show_icons=true&locale=en" alt="Andreas1012" /> -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Austin0721&" alt="Austin0721" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Austin0721&" alt="Austin0721" /> -->
 
 ## Technology Stack
 ### Languages

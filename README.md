@@ -4,18 +4,15 @@
 
 ## Mobile App & Game Developer
 
-I have 7+ years experience with App and Game Development.
+With over 8 years of experience in app and game development, I specialize in creating captivating slot casino games. I have a strong track record of delivering high-quality gaming experiences that players love.
 
-Creative, positive attitude, smart worker.
+I'm well-versed in the latest technologies and tools, ensuring that my games are at the forefront of innovation. I work effectively with diverse teams and have a proven record of delivering projects on time and within budget.
 
-Worked as Freelancer more than 4 years with many game built. Most of them are Slot game.
-
-You can play them on
+My passion for slot casino game development drives me to continuously learn and innovate. I'm committed to crafting memorable gaming experiences that engage players worldwide.
 
 https://austin0721.github.io/HottestChiliGame/
 
 https://austin0721.github.io/FortuneTreeGame/
-
 
 <img src="https://komarev.com/ghpvc/?username=Austin0721&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Austin0721" />
 

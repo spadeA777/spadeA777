@@ -2,19 +2,12 @@
 ### 👋 Hi there.
 
 
-## Mobile App & Game Developer
+## Sr.Full-Stack Developer|JavaScript|Python|PHP\Node|RN
 
-With over 8 years of experience in app and game development, I specialize in creating captivating slot casino games. I have a strong track record of delivering high-quality gaming experiences that players love.
+A seasoned senior software engineer with over a decade of experience in full-stack web and mobile development.
+I thrive on turning visionary concepts into tangible realities using cutting-edge technology.
 
-I'm well-versed in the latest technologies and tools, ensuring that my games are at the forefront of innovation. I work effectively with diverse teams and have a proven record of delivering projects on time and within budget.
-
-My passion for slot casino game development drives me to continuously learn and innovate. I'm committed to crafting memorable gaming experiences that engage players worldwide.
-
-https://austin0721.github.io/HottestChiliGame/
-
-https://austin0721.github.io/FortuneTreeGame/
-
-<img src="https://komarev.com/ghpvc/?username=Austin0721&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Austin0721" />
+<img src="https://komarev.com/ghpvc/?username=spadeA777&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="spadeA777" />
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas1012&show_icons=true&locale=en&layout=compact" alt="Andreas1012" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas1012&show_icons=true&locale=en" alt="Andreas1012" /> -->
@@ -23,28 +16,29 @@ https://austin0721.github.io/FortuneTreeGame/
 ## Technology Stack
 ### Languages
 
+<img src="https://shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://shields.io/badge/C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://shields.io/badge/Lua-informational?style=for-the-badge&logo=lua&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white" alt="Java Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=kotlin&logoColor=white" alt="Python Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Xml-informational?style=for-the-badge"/>&nbsp;&nbsp;
 
 
 ### Frameworks, Libraries, Tools
-<img src="https://img.shields.io/badge/React Native-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Angular.js-informational?style=for-the-badge&logo=angular.js&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express JS-informational?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TailwndCSS-informational?style=for-the-badge&logo=tailwndcss&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Cocos Creator-informational?style=for-the-badge&logo=cocoscreatort&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Cocos2d-informational?style=for-the-badge&logo=cocos2d&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Unity2d-informational?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React Native-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
@@ -52,4 +46,4 @@ https://austin0721.github.io/FortuneTreeGame/
 <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 
 ## How to reach me:
-- Email: austin.tech.space@gmail.com
+- Email: ruslanhlushchenko@outlook.com

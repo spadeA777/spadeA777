@@ -31,11 +31,11 @@ I thrive on turning visionary concepts into tangible realities using cutting-edg
 <img src="https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Angular.js-informational?style=for-the-badge&logo=angular.js&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Angular.js-informational?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express JS-informational?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TailwndCSS-informational?style=for-the-badge&logo=tailwndcss&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/cocos-informational?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/cocos-informational?style=for-the-badge&logo=cocos&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React Native-informational?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;

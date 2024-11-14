@@ -46,4 +46,4 @@ I thrive on turning visionary concepts into tangible realities using cutting-edg
 <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 
 ## How to reach me:
-- Email: ruslanhlushchenko@outlook.com
+- Email: austin.tech.space@gmail.com
